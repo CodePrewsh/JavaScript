@@ -4,7 +4,9 @@
 // prompt("How are you?")
 
 
+// // console.log("Hello world!");
 // console.log("Hello world!");
+
 
 // Indentations and whitespace
 // With new lines but without indentation:
